@@ -3,6 +3,10 @@ rg1 ={
         name = "sheetalrgprepod"
         location = "westus"
     }
+     rg2 ={
+        name = "sheetalrgprepod2"
+        location = "westus"
+    }
 }
 sto1 ={
     sto11= { 
