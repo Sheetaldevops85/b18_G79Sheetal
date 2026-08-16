@@ -16,6 +16,7 @@ rg1 ={
         name = "sheetalr333gprepod3"
         location = "westus"
 }
+}
 sto1 ={
     sto11= { 
         name = "myboxshprepod"
