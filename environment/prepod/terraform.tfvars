@@ -17,12 +17,3 @@ rg1 ={
         location = "westus"
 }
 }
-sto1 ={
-    sto11= { 
-        name = "myboxshprepod"
-    location = "eastus"
-    resource_group_name = "sheetalrgprepod"
-    account_tier= "Standard"
-    account_replication_type= "LRS"
-}
-}
