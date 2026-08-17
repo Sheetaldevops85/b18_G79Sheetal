@@ -6,12 +6,7 @@ terraform {
     }
   }
 
-  backend "azurerm" {
-    resource_group_name  = "sheetal-rg"
-    storage_account_name = "shstoragenew"
-    container_name       = "mycontainer"
-    key                  = "prepod.terraform.tfstate"
-  }
+  
 }
 
 provider "azurerm" {
