@@ -1,5 +1,5 @@
 variable "rg1"{}
-variable "sto1"{}
+
 
 
 module "rg"{
