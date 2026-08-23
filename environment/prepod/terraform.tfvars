@@ -16,4 +16,12 @@ rg1 ={
         name = "sheetalr333gprepod3"
         location = "westus"
 }
+rg5 ={
+        name = "schinni"
+        location = "westus"
+}
+rg6 ={
+        name = "schinn22i"
+        location = "westus"
+}
 }
